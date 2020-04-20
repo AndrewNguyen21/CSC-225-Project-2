@@ -1,0 +1,17 @@
+.jumbotron {
+    height: 50vh;
+    background: url(https://images.theconversation.com/files/78216/original/image-20150416-5628-6s1t8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip);
+    background-size: cover;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.cart-image-sizing {
+    max-height: 220px;
+    max-width: 220px;
+}
